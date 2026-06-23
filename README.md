@@ -20,9 +20,7 @@ Note:- The main files (like actual working model files) will have seperate folde
 <img width="1600" height="624" alt="1t1c_breaboard_circuit" src="https://github.com/user-attachments/assets/7211488d-6f76-4080-abb8-7af773b1e5c5" />
 
 <br><br>
- Thanks,
- 
- Sayan Kole
+
 Thanks,
 
 Sayan Kole
